@@ -3,6 +3,9 @@ import Logo from "../images/logo-royel-new.png"
 import classes from "./header.module.css"
 import Login from "../pages/Login"
 import Reset from "../pages/Reset"
+import {
+    Link
+} from "react-router-dom";
 
 const Header = () => {
     const [isOpen,setIsOpen] = useState(false)
@@ -37,9 +40,9 @@ return (
 
             <nav className={classes["large-nav"]}>
                 <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="#">About us</a></li>
-                    <li><a href="#">Contact Us</a></li>
+                    <li><Link to="/">Home</Link></li>
+                    <li><Link to="/">About us</Link></li>
+                    <li><Link to="/">Contact Us</Link></li>
                 </ul>
                 <button 
                 onClick={openDialog}

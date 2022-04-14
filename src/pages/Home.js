@@ -3,6 +3,8 @@ import Banner from "../components/Banner"
 import Rooms from "../components/Rooms"
 import Header from "../components/Header"
 import Filter from "../components/Filter"
+import Footer from "../components/Footer"
+
 
 const Home = () => {
   return (
@@ -13,6 +15,7 @@ const Home = () => {
       </div>
       <Filter />
       <Rooms />
+      <Footer />
     </div>
   )
 }
