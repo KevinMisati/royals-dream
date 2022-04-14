@@ -1,0 +1,472 @@
+
+@media(max-width:991px) {
+	.banner-section .container {
+    top: 79px;
+}
+.banner-section img{
+		height: 587px
+	}
+	.banner-section .banner-caption h1{
+		font-size:17px;
+	}
+	.banner-section .banner-caption p {
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+}
+.myselect {
+    width: 100%;
+}
+	
+	
+	
+	.top-padding {
+    margin-top: 5px;
+}
+	.form-date {
+    margin: 8px 0 !important;
+}
+.form-date .date-btn{
+	right:0;
+	
+}
+.top-margin {
+    position: relative;
+    top: 18px;
+}
+.form-datebtn{
+	top:25px;
+}
+.date-div {
+    padding: 5px 5px;
+	padding-bottom: 0;
+}
+.date-div{
+	background-color: rgba(255,255,255,.8);
+}
+.search-btn {
+    height: 35px;
+    width: 100%;
+}
+
+
+}
+
+
+
+@media only screen and (min-width: 200px) and (max-width: 1199px) {
+	
+}
+
+@media only screen and (max-width: 1024px) {
+	header{
+		height: 70px;
+	}
+	#logo img {
+    width: 105px;
+    position: relative;
+    top: -5px;
+}
+    .modal-content {
+    padding: 10px 5px;
+}
+    .product-description {
+        margin: 25px 0 10px;
+    }
+    .w-100 {
+    height: 350px;
+    }
+    .search-bar {
+    padding: 10px;
+	background-color: rgba(255,255,255,.8);
+}
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+		
+	.banner-section .container {
+    top: 79px;
+}
+.banner-section img{
+		height: 583px;
+	}
+	.banner-section .banner-caption h1{
+		font-size: 46px;
+	}
+	.banner-section .banner-caption p {
+    font-size: 17px;
+    font-weight: 700;
+    color: #fff;
+}
+.myselect {
+    width: 100%;
+}
+	.nav-btn{display:block;}
+	.sidebar{position:absolute; width:100%; height:45vh; background:#f5d25a; top:70px; left:-100%; transition:all .5s; z-index:999;}
+	nav ul li{display:block; text-align: left; border-bottom: 1px solid black; padding-bottom: 20px;}
+	nav ul li a{color: #000;}
+	.sidebar-active{left: 0;}
+	.right-btn {
+    padding-left: 0px;}
+	
+	
+	.top-padding {
+    margin-top: 5px;
+}
+	.form-date {
+    margin: 8px 0 !important;
+}
+.form-date .date-btn{
+	right:0;
+	
+}
+.top-margin {
+    position: relative;
+    top: 18px;
+}
+.form-datebtn{
+	top:25px;
+}
+.date-div {
+    padding: 5px 5px;
+	padding-bottom: 0;
+}
+.date-div{
+	background-color: rgba(255,255,255,.8);
+}
+.search-btn {
+    height: 35px;
+    width: 100%;
+}
+
+	/***==================>> select-css START=============>***/
+
+
+.select-option {
+    padding: 2px;
+    margin: 7px 0;
+    border-radius: 6px;
+    background-color: aliceblue;
+    box-shadow: 0px 2px 5px antiquewhite;
+}
+.border-right {
+	border-right:none;
+}
+.border-right{
+	border:none !important;
+}	
+.space-gap{
+	padding:0;
+	padding:0 5px 0 5px;
+}
+
+.seach-btn-group{
+	margin:6px 0;
+}
+.seletion {
+    margin: 10px 0;
+    padding: 0 ;
+    background:none;
+    border-radius: 10px;
+}
+.search-filter:hover .seletion{
+	box-shadow:none;
+}
+.search-filter:hover .search-box-group{
+	box-shadow:none;
+}
+
+.search-box-group{
+	margin:10px 0;
+	background:none;
+	border-radius:10px;
+	padding: 0 ;
+}	
+
+.search-filter:hover .midle-fill {
+    box-shadow:none;
+}
+.midle-fill {
+    padding:0;
+    transition: .4s all ease-in-out;
+    border-radius: 7px;
+}
+/***===============<end-select============<=***/
+
+}
+ @media only screen and (min-width: 768px) and (max-width: 991px) {
+	 
+	 	.banner-section .container {
+    top: 79px;
+}
+.banner-section img{
+		height: 583px;
+	}
+	.banner-section .banner-caption h1{
+		font-size: 23px;
+	}
+	.banner-section .banner-caption p {
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+	margin-bottom: 5px;
+}
+.search-filter {
+    margin-top: 0px;
+}
+	.nav-btn{display:block;}
+	.sidebar{position:absolute; width:100%; height:45vh; background:#f5d25a; top:70px; left:-100%; transition:all .5s; z-index:999;}
+	nav ul li{display:block; text-align: left; border-bottom: 1px solid black; padding-bottom: 20px;}
+	nav ul li a{color: #000;}
+	.sidebar-active{left: 0;}
+	.right-btn {
+    padding-left: 0px;}
+	
+	
+	.top-padding {
+    margin-top: 5px;
+}
+	.form-date {
+    margin: 8px 0 !important;
+}
+.form-date .date-btn{
+	right:0;
+	
+}
+.top-margin {
+    position: relative;
+    top: 18px;
+}
+.form-datebtn{
+	top:25px;
+}
+.date-div {
+    padding: 5px 5px;
+	padding-bottom: 0;
+}
+.date-div{
+	background-color: rgba(255,255,255,.8);
+}
+.search-btn {
+    height: 35px;
+    width: 100%;
+}
+
+
+
+/***==================>> select-css START=============>***/
+
+
+.select-option {
+    padding: 2px;
+    margin: 7px 0;
+    border-radius: 6px;
+    background-color: aliceblue;
+    box-shadow: 0px 2px 5px antiquewhite;
+}
+.border-right {
+	border-right:none;
+}
+.border-right{
+	border:none !important;
+}	
+.space-gap{
+	padding:0;
+	width:49%;
+	padding:0 5px 0 5px;
+}
+
+.seletion {
+    margin: 10px 0;
+    padding: 0 ;
+    background:none;
+    border-radius: 10px;
+}
+.search-filter:hover .seletion{
+	box-shadow:none;
+}
+.search-filter:hover .search-box-group{
+	box-shadow:none;
+}
+
+.search-box-group{
+	margin:10px 0;
+	background:none;
+	border-radius:10px;
+	padding: 0 ;
+}	
+
+.search-filter:hover .midle-fill {
+    box-shadow:none;
+}
+.midle-fill {
+    padding:0;
+    transition: .4s all ease-in-out;
+    border-radius: 7px;
+}
+/***===============<end-select============<=***/
+}
+
+@media only screen and (max-width: 767px) {
+	.nav-btn{display:block;}
+	.sidebar{position:absolute; width:100%; height:45vh; background:#f5d25a; top:70px; left:-100%; transition:all .5s; z-index:999;}
+	nav ul li{display:block; text-align: left; border-bottom: 1px solid black; padding-bottom: 20px;}
+	nav ul li a{color: #000;}
+	.sidebar-active{left: 0;}
+	.right-btn {
+    padding-left: 0px;}
+	
+header .container{
+	max-width: 730px;
+}	
+	
+	
+		header{
+		height: 78px;
+	}
+	#logo img {
+    width: 105px;
+    position: relative;
+    top: -5px;
+}
+  
+  #myModal .modal-dialog  {width:500px;}
+  
+  #forgot-password .modal-dialog{width:500px;}
+  
+  .modal-body{
+	  padding-left:50px;
+      padding-right:50px;
+}
+	
+	
+/**=================**/	
+	
+	header{
+		height: 70px
+	}
+	#logo img {
+    width: 105px;
+    position: relative;
+    top: -5px;
+}
+    .modal-body .product-description {
+    margin: 20px 0 5px;
+}
+    .modal-dialog {
+        margin: 0;
+    }
+    .about_product{
+        padding: 0 15px;
+    }
+    .w-100 {
+        height: 230px;
+    }
+	.banner-section img{
+		height: 587px
+	}
+	.banner-section .container{
+		top:79px;
+	}
+	.banner-section .banner-caption h1{
+		font-size: 17px;
+		margin-bottom: 0;
+		
+
+	}
+	.banner-section .banner-caption p{
+		font-size:14px;
+
+	}
+	.myselect{
+		width:80%;
+	}
+	
+	/**===========================***/
+	
+		.splide__slide{padding-left: 0px;}
+	
+	.select-option {
+    padding: 2px;
+    margin: 7px 0;
+    border-radius: 6px;
+    background-color: aliceblue;
+    box-shadow: 0px 2px 5px antiquewhite;
+}
+.border-right {
+	border-right:none;
+}
+.border-right{
+	border:none !important;
+}	
+.space-gap{
+	padding:0;
+	width: 49%;
+	padding:0 5px 0 5px;
+}
+
+.seletion {
+    margin: 10px 0;
+    padding: 0 ;
+    background:none;
+    border-radius: 10px;
+}
+.search-filter:hover .seletion{
+	box-shadow:none;
+}
+.search-filter:hover .search-box-group{
+	box-shadow:none;
+}
+
+.search-box-group{
+	margin:10px 0;
+	background:none;
+	border-radius:10px;
+	padding: 0 ;
+}	
+
+.search-filter:hover .midle-fill {
+    box-shadow:none;
+}
+.midle-fill {
+    padding:0;
+    transition: .4s all ease-in-out;
+    border-radius: 7px;
+}
+/**==================================**/
+
+	
+
+}
+
+@media  screen and (max-width: 767px) and (min-width: 576px){
+	header{
+		height:70px !important;
+
+	}
+  #myModal{margin-left:20%;
+            margin-right:20%;}
+
+  #forgot-password{margin-left:20%;
+            margin-right:20%;}
+} 
+
+ @media only screen and (max-width: 480px) {
+	 
+}
+ @media only screen and (max-width: 320px) {
+	 .space-gap {
+    width: 48%;
+}
+
+.banner-section .banner-caption h1 {
+    font-size: 18px;
+}
+
+.banner-section .banner-caption p {
+    font-size: 10px;
+}
+
+
+}
+

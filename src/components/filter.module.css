@@ -1,0 +1,46 @@
+.filter-btns-container{
+    background: linear-gradient(90deg, rgba(0,125,255,0.8911939775910365) 0%, rgba(80,8,143,0.8883928571428571) 50%, rgba(0,125,255,0.8939950980392157) 100%);
+    margin: 10px 0;
+    padding: 15px 0 15px 0;
+}
+.filter-btns{
+    width: 100%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 720px;
+    border:1px solid #aaa;
+    display: flex;
+    padding:1rem;
+    align-items: center;
+}
+.toggle-btns{
+    display:flex;
+    overflow-x: auto;
+    align-items: center;
+    height: 100%;
+}
+.filter-btns button{
+    box-sizing: border-box;
+    font-family: inherit;
+    line-height: inherit;
+    -webkit-appearance: button;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 22px;
+    font-weight: 600;
+    font-size: 15px;
+    transition: 0.3s;
+    border-radius: 3px;
+    background-color: #3a8dff;
+    color: #FFF;
+    border: none;
+    margin: 4px ;
+    cursor: pointer;
+    min-width: fit-content !important;
+}
+.main-filter-btn{
+    background: linear-gradient(260deg, rgba(0,228,255,1) 0%, rgba(0,214,140,1) 100%);
+    margin-top: -8.5px !important;
+}
